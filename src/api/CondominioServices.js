@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const client = axios.create({
-  baseURL: 'http://localhost:3000/api',
+  baseURL: 'https://api-condominio-info.herokuapp.com/api',
   json: true
 })
 

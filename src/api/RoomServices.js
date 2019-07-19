@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const client = axios.create({
-  baseURL: 'http://localhost:7000/',
+  baseURL: 'https://api-party-room.herokuapp.com/',
   json: true
 })
 
