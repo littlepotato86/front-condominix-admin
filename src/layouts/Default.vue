@@ -130,7 +130,7 @@
 
         <q-item to="/condominio" exact active-class="my-menu-link" class="my-item-menu">
           <q-item-section avatar>
-            <q-icon name="building" />
+            <q-icon name="bookmark" />
           </q-item-section>
           <q-item-section>
             <q-item-label>Condominio</q-item-label>
